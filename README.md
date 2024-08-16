@@ -28,8 +28,8 @@ proposed as the next step after anomalies has been detected. The study concludes
 machine learning was able to be implement for anomaly detection in smart aquaculture
 environment. This contributes a more secure and reliable security measures for smart
 environments. 
-
---- Helpful Information ---
+---------------------------
+Helpful Information
 Dataset: https://www.kaggle.com/datasets/monirmukul/realtime-pond-water-dataset-for-fish-farming
 Adjusted dataset: filtered_[fishes]. 
 - Obtained the highest number of fish from the original dataset
